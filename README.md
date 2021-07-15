@@ -1,2 +1,2 @@
-# wpu-resolusi-2021
+# resolusi-2021
 Repository untuk menyimpan rencana kedepannya
